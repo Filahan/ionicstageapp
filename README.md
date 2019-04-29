@@ -1,2 +1,0 @@
-# ionicstageapp
-Application de stage
